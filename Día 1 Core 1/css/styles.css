@@ -1,0 +1,55 @@
+#container {
+    background-color: rgb(158, 158, 158);
+    width: 1110px;
+    overflow: hidden;
+    height: auto;
+    padding: 8px;
+    padding-bottom: 20px;
+    margin: 20px;
+}
+
+#box-green {
+    background-color: green;
+    width: 1090px;
+    height: 200px;
+    margin: 10px;
+}
+
+#box-blue {
+    display: inline;
+    float: left;
+    background-color: blue;
+    width: 200px;
+    height: 340px;
+    margin: 10px;
+}
+
+#container-red {
+    float: right;
+    display: inline;
+    background-color: red;
+    width: 840px;
+    height: 460px;
+    margin: 10px 10px 0px; 
+}
+
+#box-yellow1, #box-yellow2, #box-yellow3 {
+    float: left;
+    background-color: yellow;
+    width: 230px;
+    height: 230px;
+    margin: 15px 7px 20px;
+    
+}
+#box-yellow1 {
+    margin-left: 15px;
+}
+
+#box-purple {
+    float: left;
+    background-color: purple;
+    width: 719px;
+    height: 130px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
